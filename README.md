@@ -2,18 +2,42 @@
 
 # 🏛️ Indian-LawGPT: A Large Language Model Based on Indian Legal Knowledge
 
-Indian-LawGPT is a series of open-source large language models based on Indian legal knowledge.
+# Indian-LawGPT: Revolutionizing Indian Legal Domain with AI
 
-These models expand on general Indian foundational models (such as Indian-LLaMA, ChatGLM, etc.) by adding a proprietary legal domain vocabulary and large-scale pre-training on Indian legal corpora, enhancing the base semantic understanding capabilities of large models in the legal field. On this basis, a legal dialogue question-and-answer dataset and an Indian judicial examination dataset are constructed for instruction fine-tuning, improving the model's understanding and execution capabilities for legal content.
+Indian-LawGPT is a breakthrough in the intersection of artificial intelligence and law. It's an innovative series of open-source large language models (LLMs) finely-tuned to the nuances of Indian legal knowledge. Developed by Permissioned AI, this initiative aims to revolutionize the accessibility and understanding of Indian legal processes and legislation.
+
+These models form an expansion of general Indian foundational models such as Indian-LLaMA, ChatGLM, among others. However, they are distinct due to their infusion of a proprietary legal domain vocabulary and their large-scale pre-training on an extensive Indian legal corpus. This novel approach amplifies the semantic understanding capabilities of large models, especially within the legal domain, thereby providing an in-depth understanding of complex legal terminologies, precedents, and cases.
+
+The development process of the Indian-LawGPT includes the construction of a legal dialogue question-and-answer dataset and an Indian judicial examination dataset for instruction fine-tuning. This procedure refines the model's understanding of legal content and its execution capabilities, making it an invaluable tool in the realm of legal discourse and research.
+
+## Applications of Indian-LawGPT
+
+### Legal Research
+
+Indian-LawGPT can be instrumental in legal research by helping researchers parse through extensive legal documents, understand intricate legal terms, and even predict potential outcomes based on legal precedents.
+
+### Legal Education
+
+This tool can be of immense help in legal education. It can aid in creating interactive educational content, answering legal queries, and even preparing students for judicial examinations.
+
+### Legal Consultation
+
+Indian-LawGPT can provide initial legal consultation by providing answers to legal queries based on Indian law, thereby enhancing access to legal services.
+
+### Legal Document Review
+
+Indian-LawGPT can review and understand legal documents, helping to identify key issues, analyze contracts, and even draft preliminary legal documents.
 
 Please refer to the technical report for more details.
 
 This project is ongoing, and the legal domain datasets and series of models will be open-sourced in succession. Please stay tuned.
 
-## 📅 Updates:
-- 🌱 2023/05/15: Release of Awesome Indian Legal Resources and legal field vocabulary.
-- 🌟 2023/05/13: Public release of Legal-Base-7B: a foundational legal model using 500,000 Indian judgment documents for secondary pre-training. Indian-LawGPT-7B-beta1.0: a legal dialogue model, constructed using 300,000 high-quality legal question and answer datasets based on Legal-Base-7B for instruction fine-tuning.
-- 🌟 2023/04/12: Internal testing of Indian-LawGPT-7B-alpha: constructed directly on the Indian-LLaMA-7B using 300,000 legal question-and-answer datasets for instruction fine-tuning.
+## 📚 Project Timeline & Milestones:
+- 🚀 2023/05/15: Launch of the comprehensive "Awesome Indian Legal Resources" and introduction of our proprietary legal field vocabulary. This marks a significant step forward in our quest to better equip and educate users about the complexities of Indian law. 🎉
+- 📘 2023/05/13: Announcement of the public release of Legal-Base-7B - a robust foundational legal model which has been trained using an impressive 500,000 Indian judgment documents for secondary pre-training. This milestone introduces Indian-LawGPT-7B-beta1.0 - a legal dialogue model - constructed meticulously using a dataset of 300,000 high-quality legal questions and answers. This is based on Legal-Base-7B for instruction fine-tuning, a testament to our dedication towards improving the model's understanding and execution capabilities for legal content. 💼
+- 📝 2023/04/12: Completion of the internal testing phase for Indian-LawGPT-7B-alpha - a model constructed directly on the Indian-LLaMA-7B using 300,000 legal question-and-answer datasets for instruction fine-tuning. This signifies our commitment to continuous improvement and quality assurance, ensuring the best possible user experience. 🛠️
+
+Stay tuned for more exciting updates as we continue to make strides in enhancing Indian-LawGPT! 📈👩‍💻👨‍💻
 
 ## ⚡ Quick Start:
 
@@ -47,25 +71,24 @@ Connect to the service:
 
 ## 🏗️ Project Structure:
 
-Indian-LawGPT
-├── assets # Project static resources
-├── data # Corpus and fine-tuning data
-├── tools # Data cleaning tools
-├── README.md
-├── requirements.txt
-└── src # Source code
-├── finetune.py
-├── generate.py
-├── models # Base models and Lora weights
-│ ├── base_models
-│ └── lora_weights
-├── outputs
-├── scripts # Script files
-│ ├── finetune.sh # Instructional fine-tuning
-│ └── generate.sh # Service creation
-├── templates
-└── utils
-
+- Indian-LawGPT
+  - assets # Project static resources
+  - data # Corpus and fine-tuning data
+  - tools # Data cleaning tools
+  - README.md
+  - requirements.txt
+  - src # Source code
+    - finetune.py
+    - generate.py
+    - models # Base models and Lora weights
+      - base_models
+      - lora_weights
+    - outputs
+    - scripts # Script files
+      - finetune.sh # Instructional fine-tuning
+      - generate.sh # Service creation
+    - templates
+    - utils
 
 ## 📚 Data Construction:
 

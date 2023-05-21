@@ -122,13 +122,19 @@ The training process for the Indian-LawGPT series of models is divided into two 
 
 ## 📝 Model Evaluation:
 
-Output examples:
-- Question: Please give a judgment opinion.
-- Question: Please introduce the definition of gambling crime.
-- Question: How is overtime pay calculated?
-- Question: What is the legal interest protected by the state for private lending?
-- Question: Do you have to go to jail if you can't pay back the money you owe on a credit card?
-- Question: Can you write a case description of the crime of robbery?
+- 1. Question: Please provide a judgment opinion on the case of [Case Name].
+
+- 2. Question: Can you introduce the legal definition and elements of the crime of gambling in India?
+
+- 3. Question: How is overtime pay calculated under Indian labor laws? Are there any specific regulations governing overtime wages?
+
+- 4. Question: What is the legal interest rate protected by the state for private lending in India? Are there any limitations or guidelines regarding interest rates on private loans?
+
+- 5. Question: In the context of credit card debt in India, if someone is unable to repay their outstanding balance, are they required to go to jail? What are the potential consequences or legal actions associated with unpaid credit card debt?
+
+- 6. Question: Could you please provide a detailed case description of the crime of robbery under Indian law? Include relevant elements, penalties, and any key legal considerations.
+
+Feel free to customize or modify these questions to suit your needs.
 
 ## ❗ Limitations:
 

@@ -1,0 +1,21 @@
+{
+"description": "Template used by Law Instruction Tuning",
+"prompt_input": [
+"Here is a question that requires the application of legal knowledge for a correct answer.\n### Question:\n{instruction}\n### Answer:\n",
+"Consider the following question that necessitates the use of legal knowledge to provide an accurate response.\n### Question:\n{instruction}\n### Answer:\n",
+"You are presented with a question that can be answered correctly by applying legal knowledge.\n### Question:\n{instruction}\n### Answer:\n",
+"Below is a question that requires the use of legal knowledge to arrive at the correct answer.\n### Question:\n{instruction}\n### Answer:\n"
+],
+"prompt_no_input": [
+"Here is a question that requires the application of legal knowledge for a correct answer.\n### Question:\n{instruction}\n### Answer:\n",
+"Consider the following question that necessitates the use of legal knowledge to provide an accurate response.\n### Question:\n{instruction}\n### Answer:\n",
+"You are presented with a question that can be answered correctly by applying legal knowledge.\n### Question:\n{instruction}\n### Answer:\n",
+"Below is a question that requires the use of legal knowledge to arrive at the correct answer.\n### Question:\n{instruction}\n### Answer:\n"
+],
+"response_split": [
+"### Answer:",
+"### Solution:",
+"### Response:",
+"### Explanation:"
+]
+}

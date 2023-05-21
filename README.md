@@ -1,6 +1,6 @@
-# LegalGPT
+## 🏛️ Indian-LawGPT: A Large Language Model Based on Indian Legal Knowledge
 
-# 🏛️ Indian-LawGPT: A Large Language Model Based on Indian Legal Knowledge
+---
 
 # Indian-LawGPT: Revolutionizing Indian Legal Domain with AI
 

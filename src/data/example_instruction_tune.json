@@ -1,15 +1,12 @@
 [
-{
-"instruction": "How long is the sentence for drunk driving causing an accident?",
-"input": "",
-"output": "In the Indian context, under Section 304A of the Indian Penal Code (IPC), if a person commits rash or negligent driving and causes an accident resulting in the death of a person, they shall be punished with imprisonment for a term which may extend to two years, or with a fine, or with both.\n\nHowever, if the drunk driving incident falls under the purview of Section 304 Part II of the IPC, which deals with culpable homicide not amounting to murder, the punishment is more severe. According to Section 304 Part II, if a person drives a vehicle in a rash or negligent manner while under the influence of alcohol or drugs and causes the death of another person, they shall be punished with imprisonment for a term which may extend to ten years, and shall also be liable to pay a fine.\n\nIt's important to note that the specific duration of the sentence within the prescribed range would depend on the circumstances of the case, the court's discretion, and the application of other relevant provisions of the law."
-}
-]
-
-[
-{
-"instruction": "What are the penalties for drunk driving in India?",
-"input": "",
-"output": "Drunk driving in India is a serious offense, and there are penalties and consequences set forth under the Motor Vehicles Act, 1988. As per the provisions of the act, the penalties for drunk driving vary depending on the severity of the offense and the number of previous offenses.\n\nFor a first-time offense of drunk driving, the offender may face imprisonment for a term which may extend up to six months or a fine of up to ₹10,000, or both.\n\nIn case of a subsequent offense of drunk driving, the penalty becomes more stringent. The offender may be liable for imprisonment for a term which may extend up to two years and a fine of up to ₹15,000, or both.\n\nIt's important to note that apart from legal penalties, driving under the influence of alcohol also poses a serious risk to public safety and can result in accidents causing injury or loss of life. It is always advisable to refrain from driving after consuming alcohol and to opt for alternate modes of transportation or designate a sober driver to ensure road safety."
-}
+  {
+    "instruction": "How long is the sentence for drunk driving causing an accident?",
+    "input": "",
+    "output": "In the Indian context, under Section 304A of the Indian Penal Code (IPC), if a person commits rash or negligent driving and causes an accident resulting in the death of a person, they shall be punished with imprisonment for a term which may extend to two years, or with a fine, or with both.\n\nHowever, if the drunk driving incident falls under the purview of Section 304 Part II of the IPC, which deals with culpable homicide not amounting to murder, the punishment is more severe. According to Section 304 Part II, if a person drives a vehicle in a rash or negligent manner while under the influence of alcohol or drugs and causes the death of another person, they shall be punished with imprisonment for a term which may extend to ten years, and shall also be liable to pay a fine.\n\nIt's important to note that the specific duration of the sentence within the prescribed range would depend on the circumstances of the case, the court's discretion, and the application of other relevant provisions of the law."
+  },
+  {
+    "instruction": "What are the penalties for drunk driving in India?",
+    "input": "",
+    "output": "Drunk driving in India is a serious offense, and there are penalties and consequences set forth under the Motor Vehicles Act, 1988. As per the provisions of the act, the penalties for drunk driving vary depending on the severity of the offense and the number of previous offenses.\n\nFor a first-time offense of drunk driving, the offender may face imprisonment for a term which may extend up to six months or a fine of up to ₹10,000, or both.\n\nIn case of a subsequent offense of drunk driving, the penalty becomes more stringent. The offender may be liable for imprisonment for a term which may extend up to two years and a fine of up to ₹15,000, or both.\n\nIt's important to note that apart from legal penalties, driving under the influence of alcohol also poses a serious risk to public safety and can result in accidents causing injury or loss of life. It is always advisable to refrain from driving after consuming alcohol and to opt for alternate modes of transportation or designate a sober driver to ensure road safety."
+  }
 ]

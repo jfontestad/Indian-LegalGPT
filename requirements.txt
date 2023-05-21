@@ -1,0 +1,36 @@
+# Accelerate provides a simple API allowing you to speedup your machine learning and deep learning pipelines 
+# using PyTorch while maintaining an identical interface to your models and data loading methods
+accelerate
+
+# Appdirs is a Python module for determining appropriate platform-specific directories
+appdirs
+
+# BitsAndBytes is an efficient Pytorch library for quantized neural network training
+bitsandbytes
+
+# Black is a code formatter for Python. It reformats your Python code to make it more readable and consistent with the PEP 8 style guide.
+black
+
+# This provides Jupyter support for the Black code formatter.
+black[jupyter]
+
+# Datasets is a lightweight and extensible library to easily share and access datasets and evaluation metrics for Natural Language Processing (NLP)
+datasets
+
+# Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object
+fire
+
+# This is a PEFT (Performance Estimation of Fine-Tuning) library that provides an easy-to-use tool for computing the cost of fine-tuning pre-trained models in terms of CO2 emissions, time and money.
+git+https://github.com/huggingface/peft.git@e536616888d51b453ed354a6f1e243fecb02ea08
+
+# Transformers provides thousands of pretrained models to perform tasks on texts such as classification, information extraction, answering questions, summarizing texts, translating languages, and more.
+git+https://github.com/huggingface/transformers.git
+
+# Gradio allows you to quickly create customizable UI components around your TensorFlow or PyTorch models, or even arbitrary Python functions.
+gradio
+
+# SentencePiece is an unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation systems where the vocabulary size is predetermined prior to the neural model training.
+sentencepiece
+
+# Wandb is a tool for helping track the progress of machine learning projects, providing methods for logging metrics from runs of your code, and tools for comparing runs and reproducing experiments.
+wandb

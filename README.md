@@ -170,7 +170,7 @@ As the collaborators advance the project in their spare time from research, due 
 
 This project is based on the following open-source projects, and we would like to express our sincere gratitude to the relevant projects and developers:
 
-- Indian-LLaMA-Alpaca: https://github.com/ymcui/Indian-LLaMA-Alpaca
+- Hugging Face
 - LLaMA: https://github.com/facebookresearch/llama
 - Alpaca: https://github.com/tatsu-lab/stanford_alpaca
 

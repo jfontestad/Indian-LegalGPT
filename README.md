@@ -32,9 +32,8 @@ Please refer to the technical report for more details.
 This project is ongoing, and the legal domain datasets and series of models will be open-sourced in succession. Please stay tuned.
 
 ## 📚 Project Timeline & Milestones:
-- 🚀 2023/05/15: Launch of the comprehensive "Awesome Indian Legal Resources" and introduction of our proprietary legal field vocabulary. This marks a significant step forward in our quest to better equip and educate users about the complexities of Indian law. 🎉
-- 📘 2023/05/13: Announcement of the public release of Legal-Base-7B - a robust foundational legal model which has been trained using an impressive 500,000 Indian judgment documents for secondary pre-training. This milestone introduces Indian-LawGPT-7B-beta1.0 - a legal dialogue model - constructed meticulously using a dataset of 300,000 high-quality legal questions and answers. This is based on Legal-Base-7B for instruction fine-tuning, a testament to our dedication towards improving the model's understanding and execution capabilities for legal content. 💼
-- 📝 2023/04/12: Completion of the internal testing phase for Indian-LawGPT-7B-alpha - a model constructed directly on the Indian-LLaMA-7B using 300,000 legal question-and-answer datasets for instruction fine-tuning. This signifies our commitment to continuous improvement and quality assurance, ensuring the best possible user experience. 🛠️
+- 📘  Announcement of the public release of Legal-Base-7B - a robust foundational legal model which has been trained using an impressive 500,000 Indian judgment documents for secondary pre-training. 
+- 📝 : Completion of the internal testing phase for Indian-LawGPT-7B-alpha - a model constructed directly on the Indian-LLaMA-7B using 300,000 legal question-and-answer datasets for instruction fine-tuning. This signifies our commitment to continuous improvement and quality assurance, ensuring the best possible user experience. 🛠️
 
 Stay tuned for more exciting updates as we continue to make strides in enhancing Indian-LawGPT! 📈👩‍💻👨‍💻
 

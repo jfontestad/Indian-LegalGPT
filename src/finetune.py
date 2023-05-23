@@ -128,8 +128,7 @@ def train(
     tokenizer.padding_side = "left"  # Allow batched inference
 
     def tokenize(prompt, add_eos_token=True):
-        # there's probably a way to do this with the tokenizer settings
-        # but again, gotta move fast
+        #optimize option possible
         result = tokenizer(
             prompt,
             truncation=True,
